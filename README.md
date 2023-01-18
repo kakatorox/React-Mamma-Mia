@@ -2,7 +2,7 @@
 https://github.com/kakatorox/React-Mamma-Mia
 
 # Enlace
-Open [https://kakatorox.github.io/React-Mamma-Mia/](enlace mamamia) . 
+Open [https://kakatorox.github.io/React-Mamma-Mia/] (enlace mamamia) . 
 
 # Getting Started with Create React App
 
